@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "router-llm"
+version = "0.1.0"
+description = "CrewAI dynamic multi-provider routing and fallback"
+requires-python = ">=3.11"
+dependencies = [
+    "crewai",
+    "pydantic"
+]
