@@ -1,5 +1,5 @@
 Metadata-Version: 2.4
-Name: router-llm
+Name: router_llm
 Version: 0.1.0
 Summary: CrewAI dynamic multi-provider routing and fallback
 Requires-Python: >=3.11
